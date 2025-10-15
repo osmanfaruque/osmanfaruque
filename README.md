@@ -10,7 +10,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me: Rakib Md Osman Faruque
 
 🚀 Passionate Full Stack Developer specializing in modern web technologies  
 💡 Love turning ideas into reality through clean and efficient code  
@@ -114,9 +114,10 @@
   
 Feel free to reach out for collaborations or just a friendly chat about web development!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanfaruque)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/osmanfaruque)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://osmanfaruque.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Osman--Faruque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmanfaruque/)](https://www.linkedin.com/in/osmanfaruque/)
+[![Facebook Badge](https://img.shields.io/badge/-Osman_Faruque-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/pH4nToM6Th)](https://www.facebook.com/pH4nToM6Th)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://osmanfaruque.com)
+
 
 ---
 
