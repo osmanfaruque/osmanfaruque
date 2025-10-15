@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Osman+Faruque;Full+Stack+Developer;Building+Amazing+Web+Experiences" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osmanfaruque&label=Profile%20views&color=0e75b6&style=flat" alt="osmanfaruque" />
-</p>
+<div align="center">
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-Osman--Faruque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmanfaruque/)](https://www.linkedin.com/in/osmanfaruque/)
+[![Facebook Badge](https://img.shields.io/badge/-Osman_Faruque-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/pH4nToM6Th)](https://www.facebook.com/pH4nToM6Th)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://osmanfaruque.com)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -15,6 +17,25 @@
 🌱 Always learning and exploring new technologies  
 ⚡ Building scalable web applications with cutting-edge tech stacks  
 🎯 Focus on creating seamless user experiences
+
+## My areas of expertise:
+
+☑️ Responsive Web Design using HTML5, CSS3 (Flexbox & Grid), and Tailwind CSS<br>
+☑️ Building scalable and dynamic frontends with React.js (hooks, routing, state management)<br>
+☑️ Backend development with Node.js and Express.js for RESTful APIs<br>
+☑️ Secure authentication & authorization with Firebase, JWT, and OAuth<br>
+☑️ Database integration and CRUD operations with MongoDB<br>
+☑️ Full-stack app deployment (Vercel, Netlify, Firebase Hosting)<br>
+☑️ Figma-to-Code conversion for pixel-perfect UI/UX<br>
+☑️ End-to-End project development (Frontend + Backend + Database + Auth + Deployment)<br>
+
+## My experience and achievements:
+
+✅ Completed 6-month Web Development Bootcamp at Programming Hero (MERN Stack).<br>
+✅ Built 9 projects (3 HTML+CSS, 3 React.js, 3 MERN full-stack) including a Multi-Vendor E-commerce Platform and a Car Rental App.<br>
+✅ Internship at A1QA – worked on full-stack apps, integrated Stripe payments, Firebase auth, and developed secure dashboards for users, admins, and sellers.<br>
+✅ Active participant in CTF & Cybersecurity competitions (MIST CyberRaid 2025 – 12th, EWU CTF 2024 – 10th, Bug Hunt 2024 Finalist).<br>
+✅ Experienced in teamwork, SDLC processes, and delivering client-focused solutions.<br>
 
 ---
 
@@ -44,17 +65,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osmanfaruque&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanfaruque&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanfaruque&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"></a>
+        <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=osmanfaruque&show_icons=true&theme=gotham">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanfaruque&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
+    </a>
+</p>
 
 ---
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## 🏆 GitHub Trophies
 
 <div align="center">
