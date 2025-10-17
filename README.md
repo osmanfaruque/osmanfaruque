@@ -19,6 +19,12 @@
 ⚡ Building scalable web applications with cutting-edge tech stacks  
 🎯 Focus on creating seamless user experiences
 
+## Current Activities:
+
+☑️ Currently Working on creating Next.js Projects <br>
+☑️ Learning React memo and some other react hooks<br>
+☑️ Learning Gemini 2.5 Pro CLI<br>
+
 ## My areas of expertise:
 
 ☑️ Responsive Web Design using HTML5, CSS3 (Flexbox & Grid), and Tailwind CSS<br>
@@ -40,7 +46,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Skills
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
