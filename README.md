@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Osman+Faruque;Full+Stack+Developer;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://github.com/osmanfaruque/osmanfaruque/blob/main/git_banner.png" alt="Git Banner" />
 </div>
 
 <div align="center">
